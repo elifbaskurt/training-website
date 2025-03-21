@@ -24,7 +24,6 @@ A clean, responsive pricing component with monthly/yearly toggle functionality.
 2. Include the necessary files in your project:
    ```html
    <link rel="stylesheet" href="path/to/styles.css">
-   <script src="path/to/script.js" defer></script>
    ```
 
 3. Add the HTML markup to your page:
