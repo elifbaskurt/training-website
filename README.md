@@ -1,58 +1,55 @@
 # Training Website
 
-A clean, responsive pricing component with monthly/yearly toggle functionality.
+An educational website project to practice and showcase fundamental HTML and CSS skills.
 
 ## Overview
 
-**Training Website** is a lightweight, customizable web project that includes a modern pricing component allowing users to toggle between monthly and yearly billing options. It showcases two pricing tiers (Starter and Professional) with rates that adapt based on the selected billing plan.
+**Training Website** is a front-end web development project created to reinforce web design and coding skills. It serves as a playground for experimenting with layouts, components, and styling using modern HTML and CSS techniques. This project is ideal for beginners looking to build and customize their own static websites.
 
 ## Features
 
-- Clean, modern design
-- Responsive layout that works on all devices
-- Smooth toggle between monthly and yearly pricing
-- Clearly displayed pricing information
-- Easy to integrate into any website or training project
+- Semantic HTML5 structure
+- CSS styling with reusable classes
+- Responsive layout for different screen sizes
+- Simple navigation menu
+- Example sections for common webpage content (hero, about, contact, etc.)
 
-## Usage
+## Project Structure
+
+```
+training-website/
+│
+├── index.html          # Main HTML file
+├── style.css           # CSS styles
+└── img/             # Folder for images
+```
+
+## Getting Started
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/elifbaskurt/training-website.git
    ```
 
-2. Include the necessary files in your project:
-   ```html
-   <link rel="stylesheet" href="path/to/styles.css">
+2. Open the project folder:
+   ```bash
+   cd training-website
    ```
 
-3. Add the HTML markup to your page:
-   ```html
-   <!-- Copy the pricing component HTML structure from index.html -->
-   ```
-
-4. Customize the pricing, text, and styling as needed for your project.
+3. Open `index.html` in your browser or with a live server extension to view the site.
 
 ## Customization
 
-You can easily modify and expand the component by updating:
-- Colors and styling in the CSS file
-- Pricing tiers and pricing details
-- Toggle button behavior and labels
-- Adding more pricing options or features
+You can modify and extend the project by:
+- Updating content in `index.html`
+- Adding new sections or components
+- Changing styling in `style.css`
+- Using your own images in the `img/` folder
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-
-## Browser Support
-
-- Chrome
-- Firefox
-- Safari
-- Edge
-- Opera
 
 ## License
 
@@ -64,5 +61,5 @@ Created by [Elif Baskurt](https://github.com/elifbaskurt)
 
 ## Acknowledgements
 
-- Inspired by modern SaaS pricing pages
-- Design guided by clean UI and responsive layout principles
+- Built as part of front-end web development practice
+
